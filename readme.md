@@ -8,4 +8,4 @@ Bonus
 Rendere l’esercizio responsive, mandando a capo le card
 
 Bonus #2
-Creare un pulsante che aggiunge un nuovo oggetto nell'array con i vostri dati.
+Creare un pulsante che aggiunge un nuovo oggetto nell'array con i vostri dati.s
